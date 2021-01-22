@@ -1,0 +1,51 @@
+﻿Depart,Destination,Avg Time,IQR,High,Low
+Canarsie - Rockaway Pkwy,149 st - grand concourse,64,15,74,59
+Canarsie - Rockaway Pkwy,28 st station,48,16,59,43
+Canarsie - Rockaway Pkwy,72 st,56,16,66,50
+Canarsie - Rockaway Pkwy,mt eden ave,73,17,84,67
+Canarsie - Rockaway Pkwy,168 st,77,19,89,70
+Canarsie - Rockaway Pkwy,Times sq- 42 st,49,15,59,44
+Canarsie - Rockaway Pkwy,grand central - 42st,49,15,59,44
+Canarsie - Rockaway Pkwy,34 st - herald sq,48,15,57,42
+Canarsie - Rockaway Pkwy,14 st - union sq,38,11,46,35
+Canarsie - Rockaway Pkwy,fulton st,45,19,56,37
+Jamaica Center - Parsons/Archer,149 st - grand concourse,58,20,71,51
+Jamaica Center - Parsons/Archer,28 st station,53,19,66,47
+Jamaica Center - Parsons/Archer,72 st,57,21,71,50
+Jamaica Center - Parsons/Archer,mt eden ave,67,21,81,60
+Jamaica Center - Parsons/Archer,168 st,76,21,89,68
+Jamaica Center - Parsons/Archer,Times sq- 42 st,47,19,60,41
+Jamaica Center - Parsons/Archer,grand central - 42st,49,20,62,42
+Jamaica Center - Parsons/Archer,34 st - herald sq,46,18,58,40
+Jamaica Center - Parsons/Archer,14 st - union sq,52,21,66,45
+Jamaica Center - Parsons/Archer,fulton st,57,18,69,51
+179th street station,149 st - grand concourse,58,18,70,52
+179th street station,28 st station,53,18,65,47
+179th street station,72 st,44,20,57,37
+179th street station,mt eden ave,67,21,81,60
+179th street station,168 st,76,21,90,69
+179th street station,Times sq- 42 st,47,17,59,42
+179th street station,grand central - 42st,49,20,62,42
+179th street station,34 st - herald sq,45,19,58,39
+179th street station,14 st - union sq,52,20,65,45
+179th street station,fulton st,61,20,74,54
+175th street station,149 st - grand concourse,33,20,45,25
+175th street station,28 st station,38,17,49,32
+175th street station,72 st,34,18,45,27
+175th street station,mt eden ave,35,18,47,29
+175th street station,168 st,7,14,17,3
+175th street station,Times sq- 42 st,27,15,37,22
+175th street station,grand central - 42st,35,17,46,29
+175th street station,34 st - herald sq,35,17,46,29
+175th street station,14 st - union sq,39,17,50,33
+175th street station,fulton st,40,16,51,35
+Castle Hill Avenue Station,149 st - grand concourse,35,20,48,28
+Castle Hill Avenue Station,28 st station,67,22,81,59
+Castle Hill Avenue Station,72 st,52,21,65,44
+Castle Hill Avenue Station,mt eden ave,45,22,59,37
+Castle Hill Avenue Station,168 st,67,24,82,58
+Castle Hill Avenue Station,Times sq- 42 st,56,21,70,49
+Castle Hill Avenue Station,grand central - 42st,45,21,58,37
+Castle Hill Avenue Station,34 st - herald sq,57,22,70,48
+Castle Hill Avenue Station,14 st - union sq,50,22,63,41
+Castle Hill Avenue Station,fulton st,57,22,71,49
